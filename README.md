@@ -3,6 +3,7 @@
 ## My submissions on codechef.
 ### Problems solved yet
 
+#### ADASCOOL => Ada School
 #### AMR15A => Mahasena
 #### AREAPERI => Area OR Perimeter
 #### BFTT => Balsa For The Three
@@ -10,9 +11,11 @@
 #### BMI => Body Mass Index
 #### CCISLAND => Chef On Island
 #### CCOOK => Chef and Cook-Off
+#### CHEFARRP => Chef and Subarrays
 #### CHEFSTUD => Chef and his Students
 #### CHN09 => Malvika is peculiar about color of balloons
 #### CHN15A => Mutated Minions
+#### CHNGIT => Change It
 #### CHOPRT => Chef And Operators
 #### CUTBOARD => Cut the Board
 #### DECINC => Decrement OR Increment
@@ -53,3 +56,4 @@
 #### NOTIME => No Time to Wait
 #### NUM239 => Counting Pretty Numbers
 #### PALL01 => The Block Game
+
