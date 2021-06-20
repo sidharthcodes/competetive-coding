@@ -9,6 +9,7 @@
 #### BFTT => Balsa For The Three
 #### BITTUP => Bitwise Tuples
 #### BMI => Body Mass Index
+#### CANDY123 => Bear and Candies 123
 #### CCISLAND => Chef On Island
 #### CCOOK => Chef and Cook-Off
 #### CHEFARRP => Chef and Subarrays
@@ -26,6 +27,7 @@
 #### FLOW001 => Add Two Numbers
 #### FLOW002 => Find Remainder
 #### FLOW004 => First and Last Digit
+#### FLOW005 => Smallest Numbers of Notes
 #### FLOW006 => Sum of Digits
 #### FLOW007 => Reverse The Number
 #### FLOW008 => Helping Chef
@@ -46,6 +48,7 @@
 #### INTEST => Enormous Input Test
 #### JOHNY => Uncle Johny
 #### COCONUT => Summer Heat
+#### LAPIN => Lapindromes
 #### LAZYCHF => Lazy Chef
 #### LCH15JAB => Piece of cake
 #### LIFELTD => Life Limited
@@ -62,6 +65,7 @@
 #### PRICECON => Chef and Price Control
 #### PSGRADE => Passing Marks
 #### REMISS => Chef and Remissness
+#### RRJOKE => Good Joke!
 #### SAVWATER => A - Save Water Save Life
 #### SEDARR => Sed Sequences
 #### SNCKYEAR => Chef and SnackDown
