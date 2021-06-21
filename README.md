@@ -1,11 +1,12 @@
 # competetive-coding
 
 ## My submissions on codechef.
-### Problems solved yet
+### Problems solved yet...
 
 #### ADASCOOL => Ada School
 #### AMR15A => Mahasena
 #### AREAPERI => Area OR Perimeter
+#### BALLOON => ICPC Balloons
 #### BFTT => Balsa For The Three
 #### BITTUP => Bitwise Tuples
 #### BMI => Body Mass Index
@@ -59,12 +60,15 @@
 #### NOTIME => No Time to Wait
 #### NUM239 => Counting Pretty Numbers
 #### PALL01 => The Block Game
+#### PAWRI => Pawri Meme
 #### PCJ18B => Chef and Bored Games
+#### PLAYPIAN => Play Piano
 #### PPSUM => Puppy and Sum
 #### PRB01 => Primality Test
 #### PRICECON => Chef and Price Control
 #### PSGRADE => Passing Marks
 #### REMISS => Chef and Remissness
+#### RPD => Easy Math
 #### RRJOKE => Good Joke!
 #### SAVWATER => A - Save Water Save Life
 #### SEDARR => Sed Sequences
@@ -81,6 +85,7 @@
 #### UWCOI20A => Peak Finding
 #### UWCOI21A => Hidden Numbers
 #### VILLINE => Recruit Villagers
+#### VISA => Chefland Visa
 #### VOWELTB => Is it a VOWEL or CONSONANT
 #### WATSCORE => That Is My Score!
 #### ZCOSCH => How much Scholarship
