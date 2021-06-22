@@ -67,6 +67,7 @@
 #### PRB01 => Primality Test
 #### PRICECON => Chef and Price Control
 #### PSGRADE => Passing Marks
+#### RECTANGL => Rectangle
 #### REMISS => Chef and Remissness
 #### RPD => Easy Math
 #### RRJOKE => Good Joke!
