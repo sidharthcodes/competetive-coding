@@ -2,7 +2,6 @@
 
 ### Problems that I solved and submitted on CodeChef yet...
 
-
 ADASCOOL => Ada School
 
 AMR15A => Mahasena
