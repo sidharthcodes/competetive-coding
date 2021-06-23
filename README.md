@@ -74,6 +74,8 @@ FLOW017 => Second Largest
 
 FLOW018 => Small Factorial
 
+FRUITS => Chef and Fruits
+
 FSQRT => Finding Square Roots
 
 HDIVISR => Highest Divisor
@@ -110,6 +112,8 @@ MATCHES => Playing with Matches
 
 MDL => Medel
 
+MUFFINS3 => Packaging Cupcakes
+
 NOTIME => No Time to Wait
 
 NUM239 => Counting Pretty Numbers
@@ -141,6 +145,8 @@ RRJOKE => Good Joke!
 SAVWATER => A - Save Water Save Life
 
 SEDARR => Sed Sequences
+
+SMPAIR => The Smallest Pair
 
 SNCKYEAR => Chef and SnackDown
 
