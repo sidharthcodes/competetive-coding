@@ -34,6 +34,8 @@ CHNGIT => Change It
 
 CHOPRT => Chef And Operators
 
+CIELRCPT => Ciel and Receipt
+
 CUTBOARD => Cut the Board
 
 DECINC => Decrement OR Increment
