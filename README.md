@@ -26,6 +26,8 @@ CHEFARRP => Chef and Subarrays
 
 CHEFSTUD => Chef and his Students
 
+CHFRICH => Richie Rich
+
 CHN09 => Malvika is peculiar about color of balloons
 
 CHN15A => Mutated Minions
@@ -129,6 +131,8 @@ PAWRI => Pawri Meme
 PCJ18B => Chef and Bored Games
 
 PLAYPIAN => Play Piano
+
+POTATOES => Farmer Feb
 
 PPSUM => Puppy and Sum
 
