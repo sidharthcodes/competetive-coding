@@ -14,6 +14,8 @@ BFTT => Balsa For The Three
 
 BITTUP => Bitwise Tuples
 
+BLITZ3_2 => Chess Match
+
 BMI => Body Mass Index
 
 CANDY123 => Bear and Candies 123
@@ -39,6 +41,8 @@ CHOPRT => Chef And Operators
 CIELRCPT => Ciel and Receipt
 
 CUTBOARD => Cut the Board
+
+CYCLICQD => Cyclic Quadrilateral
 
 DECINC => Decrement OR Increment
 
@@ -169,6 +173,8 @@ SUMPOS => Pair Me
 T20MCH => Possible Victory
 
 TABLET => Buying New Tablet
+
+TOTCRT => Total Correct Submissions
 
 TRISQ => Fit Squares in Triangle
 
