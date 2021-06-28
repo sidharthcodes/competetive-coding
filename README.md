@@ -8,6 +8,8 @@ AMR15A => Mahasena
 
 AREAPERI => Area OR Perimeter
 
+ATM2 => ATM Machine
+
 BALLOON => ICPC Balloons
 
 BFTT => Balsa For The Three
@@ -26,6 +28,8 @@ CCOOK => Chef and Cook-Off
 
 CHEFARRP => Chef and Subarrays
 
+CHFINTRO => Chef and Interactive Contests
+
 CHEFSTUD => Chef and his Students
 
 CHFRICH => Richie Rich
@@ -40,7 +44,11 @@ CHOPRT => Chef And Operators
 
 CIELRCPT => Ciel and Receipt
 
+CO92JUDG => Chef Judges a Competition
+
 CUTBOARD => Cut the Board
+
+CYBV => The Begining Era Of Cyberverse
 
 CYCLICQD => Cyclic Quadrilateral
 
@@ -53,6 +61,8 @@ DIV03 => Daanish and Problems
 DIVTHREE => Chef and Division 3
 
 EVENGAME => Even Sum
+
+EVENTUAL => Even-tual Reduction
 
 FLOW001 => Add Two Numbers
 
