@@ -60,6 +60,8 @@ DIV03 => Daanish and Problems
 
 DIVTHREE => Chef and Division 3
 
+EITA => Maximum Production
+
 EVENGAME => Even Sum
 
 EVENTUAL => Even-tual Reduction
@@ -157,6 +159,8 @@ PRICECON => Chef and Price Control
 PSGRADE => Passing Marks
 
 RECTANGL => Rectangle
+
+RELATIVE => Relativity
 
 REMISS => Chef and Remissness
 
