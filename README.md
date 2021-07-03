@@ -184,6 +184,8 @@ START01 => Number Mirror
 
 SUMPOS => Pair Me
 
+SVRT => Server Trouble
+
 T20MCH => Possible Victory
 
 TABLET => Buying New Tablet
