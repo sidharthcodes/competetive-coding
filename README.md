@@ -10,6 +10,8 @@ AREAPERI => Area OR Perimeter
 
 ATM2 => ATM Machine
 
+ATTND => Attendance
+
 BALLOON => ICPC Balloons
 
 BFTT => Balsa For The Three
@@ -45,6 +47,8 @@ CHOPRT => Chef And Operators
 CIELRCPT => Ciel and Receipt
 
 CO92JUDG => Chef Judges a Competition
+
+COCONUT => Summer Heat
 
 CUTBOARD => Cut the Board
 
@@ -116,7 +120,7 @@ INTEST => Enormous Input Test
 
 JOHNY => Uncle Johny
 
-COCONUT => Summer Heat
+KTTABLE => Kitchen Timetable
 
 LAPIN => Lapindromes
 
@@ -147,6 +151,8 @@ PAWRI => Pawri Meme
 PCJ18B => Chef and Bored Games
 
 PLAYPIAN => Play Piano
+
+PLAYSTR => Playing with Strings
 
 POTATOES => Farmer Feb
 
