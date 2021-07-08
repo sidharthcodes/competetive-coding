@@ -24,6 +24,8 @@ BMI => Body Mass Index
 
 CANDY123 => Bear and Candies 123
 
+CCBTS01 => PCM Dilemma
+
 CCISLAND => Chef On Island
 
 CCOOK => Chef and Cook-Off
@@ -118,6 +120,8 @@ IMDB => Motivation
 
 INTEST => Enormous Input Test
 
+JDELAY => Judging Delay
+
 JOHNY => Uncle Johny
 
 KTTABLE => Kitchen Timetable
@@ -134,11 +138,17 @@ LUCKFOUR => Lucky Four
 
 LUCKYFR => Lucky Four
 
+MARARUN => Marathon
+
 MATCHES => Playing with Matches
 
 MDL => Medel
 
+MOVIEWKN => Movie Weekend
+
 MUFFINS3 => Packaging Cupcakes
+
+NAICHEF => Naive Chef
 
 NOTIME => No Time to Wait
 
@@ -217,5 +227,7 @@ VISA => Chefland Visa
 VOWELTB => Is it a VOWEL or CONSONANT
 
 WATSCORE => That Is My Score!
+
+WEIGHTBL => Weight Balance
 
 ZCOSCH => How much Scholarship
