@@ -174,6 +174,8 @@ PRICECON => Chef and Price Control
 
 PSGRADE => Passing Marks
 
+RAINBOWA => Chef and Rainbow Array
+
 RECTANGL => Rectangle
 
 RELATIVE => Relativity
