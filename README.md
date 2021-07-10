@@ -208,6 +208,8 @@ T20MCH => Possible Victory
 
 TABLET => Buying New Tablet
 
+TALAZY => Lazy Jem
+
 TOTCRT => Total Correct Submissions
 
 TRISQ => Fit Squares in Triangle
