@@ -114,6 +114,8 @@ HOOPS => Hoop Jump
 
 HOWMANY => HOW MANY DIGITS DO I HAVE
 
+HS08TEST => ATM
+
 ICL1902 => FlatLand
 
 IMDB => Motivation
@@ -145,6 +147,8 @@ MATCHES => Playing with Matches
 MDL => Medel
 
 MOVIEWKN => Movie Weekend
+
+MSNSADM1 => Football
 
 MUFFINS3 => Packaging Cupcakes
 
