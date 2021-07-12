@@ -52,6 +52,8 @@ CO92JUDG => Chef Judges a Competition
 
 COCONUT => Summer Heat
 
+COLOR => Chef And Coloring
+
 CUTBOARD => Cut the Board
 
 CYBV => The Begining Era Of Cyberverse
