@@ -48,6 +48,8 @@ CHOPRT => Chef And Operators
 
 CIELRCPT => Ciel and Receipt
 
+CLLCM => Chef vs Doof
+
 CO92JUDG => Chef Judges a Competition
 
 COCONUT => Summer Heat
@@ -73,6 +75,8 @@ EITA => Maximum Production
 EVENGAME => Even Sum
 
 EVENTUAL => Even-tual Reduction
+
+FCTRL2 => Small factorials
 
 FLOW001 => Add Two Numbers
 
@@ -215,6 +219,8 @@ T20MCH => Possible Victory
 TABLET => Buying New Tablet
 
 TALAZY => Lazy Jem
+
+TLG => The Lead Game
 
 TOTCRT => Total Correct Submissions
 
