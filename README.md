@@ -226,11 +226,15 @@ TLG => The Lead Game
 
 TOTCRT => Total Correct Submissions
 
+TRICOIN => Coins And Triangle
+
 TRISQ => Fit Squares in Triangle
 
 TSORT => Turbo Sort
 
 TWOVSTEN => Two vs Ten
+
+TWTCLOSE => Closing the Tweets
 
 UWCOI20A => Peak Finding
 
