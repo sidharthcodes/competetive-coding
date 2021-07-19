@@ -74,6 +74,8 @@ DIVTHREE => Chef and Division 3
 
 EITA => Maximum Production
 
+ELEVSTRS => From heaven to earth
+
 EVENGAME => Even Sum
 
 EVENTUAL => Even-tual Reduction
