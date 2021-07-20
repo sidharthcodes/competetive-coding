@@ -204,6 +204,8 @@ SAVWATER => A - Save Water Save Life
 
 SEDARR => Sed Sequences
 
+SEGM01 => Bear and Segment 01
+
 SMPAIR => The Smallest Pair
 
 SNCKYEAR => Chef and SnackDown
