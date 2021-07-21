@@ -1,259 +1,144 @@
 # competetive-coding
 
-### Problems that I solved and submitted on CodeChef yet...
-
-ADASCOOL => Ada School
-
-AMR15A => Mahasena
-
-AREAPERI => Area OR Perimeter
-
-ATM2 => ATM Machine
-
-ATTND => Attendance
-
-BALLOON => ICPC Balloons
-
-BFTT => Balsa For The Three
-
-BITTUP => Bitwise Tuples
-
-BLITZ3_2 => Chess Match
-
-BMI => Body Mass Index
-
-CANDY123 => Bear and Candies 123
-
-CCBTS01 => PCM Dilemma
-
-CCISLAND => Chef On Island
-
-CCOOK => Chef and Cook-Off
-
-CHEFARRP => Chef and Subarrays
-
-CHFINTRO => Chef and Interactive Contests
-
-CHEFSTUD => Chef and his Students
-
-CHFRICH => Richie Rich
-
-CHN09 => Malvika is peculiar about color of balloons
-
-CHN15A => Mutated Minions
-
-CHNGIT => Change It
-
-CHOPRT => Chef And Operators
-
-CIELRCPT => Ciel and Receipt
-
-CLLCM => Chef vs Doof
-
-CO92JUDG => Chef Judges a Competition
-
-COCONUT => Summer Heat
-
-COLOR => Chef And Coloring
-
-COMM3 => Three Way Communications
-
-CUTBOARD => Cut the Board
-
-CYBV => The Begining Era Of Cyberverse
-
-CYCLICQD => Cyclic Quadrilateral
-
-DECINC => Decrement OR Increment
-
-DIFFSUM => Sum OR Difference
-
-DIV03 => Daanish and Problems
-
-DIVTHREE => Chef and Division 3
-
-EITA => Maximum Production
-
-ELEVSTRS => From heaven to earth
-
-EVENGAME => Even Sum
-
-EVENTUAL => Even-tual Reduction
-
-FCTRL2 => Small factorials
-
-FLOW001 => Add Two Numbers
-
-FLOW002 => Find Remainder
-
-FLOW004 => First and Last Digit
-
-FLOW005 => Smallest Numbers of Notes
-
-FLOW006 => Sum of Digits
-
-FLOW007 => Reverse The Number
-
-FLOW008 => Helping Chef
-
-FLOW009 => Total Expenses
-
-FLOW010 => Id and Ship
-
-FLOW011 => Gross Salary
-
-FLOW013 => Valid Triangles
-
-FLOW014 => Grade The Steel
-
-FLOW016 => GCD and LCM
-
-FLOW017 => Second Largest
-
-FLOW018 => Small Factorial
-
-FRUITS => Chef and Fruits
-
-FSQRT => Finding Square Roots
-
-HDIVISR => Highest Divisor
-
-HEADBOB => Tanu and Head-bob
-
-HOOPS => Hoop Jump
-
-HOWMANY => HOW MANY DIGITS DO I HAVE
-
-HS08TEST => ATM
-
-ICL1902 => FlatLand
-
-IMDB => Motivation
-
-INTEST => Enormous Input Test
-
-JDELAY => Judging Delay
-
-JOHNY => Uncle Johny
-
-KTTABLE => Kitchen Timetable
-
-LAPIN => Lapindromes
-
-LAZYCHF => Lazy Chef
-
-LCH15JAB => Piece of cake
-
-LIFELTD => Life Limited
-
-LUCKFOUR => Lucky Four
-
-LUCKYFR => Lucky Four
-
-MARARUN => Marathon
-
-MATCHES => Playing with Matches
-
-MDL => Medel
-
-MOVIEWKN => Movie Weekend
-
-MSNSADM1 => Football
-
-MUFFINS3 => Packaging Cupcakes
-
-NAICHEF => Naive Chef
-
-NOTIME => No Time to Wait
-
-NUM239 => Counting Pretty Numbers
-
-PALL01 => The Block Game
-
-PAWRI => Pawri Meme
-
-PCJ18B => Chef and Bored Games
-
-PLAYPIAN => Play Piano
-
-PLAYSTR => Playing with Strings
-
-POTATOES => Farmer Feb
-
-PPSUM => Puppy and Sum
-
-PRB01 => Primality Test
-
-PRICECON => Chef and Price Control
-
-PSGRADE => Passing Marks
-
-RAINBOWA => Chef and Rainbow Array
-
-RECTANGL => Rectangle
-
-RELATIVE => Relativity
-
-REMISS => Chef and Remissness
-
-RPD => Easy Math
-
-RRJOKE => Good Joke!
-
-SAVWATER => A - Save Water Save Life
-
-SEDARR => Sed Sequences
-
-SEGM01 => Bear and Segment 01
-
-SMPAIR => The Smallest Pair
-
-SNCKYEAR => Chef and SnackDown
-
-SOCKS1 => Valid Pair
-
-SOLBLTY => Solubility
-
-START01 => Number Mirror
-
-SUMPOS => Pair Me
-
-SVRT => Server Trouble
-
-T20MCH => Possible Victory
-
-TABLET => Buying New Tablet
-
-TALAZY => Lazy Jem
-
-TLG => The Lead Game
-
-TOTCRT => Total Correct Submissions
-
-TRICOIN => Coins And Triangle
-
-TRISQ => Fit Squares in Triangle
-
-TSORT => Turbo Sort
-
-TWOVSTEN => Two vs Ten
-
-TWTCLOSE => Closing the Tweets
-
-UWCOI20A => Peak Finding
-
-UWCOI21A => Hidden Numbers
-
-VCS => Version Control System
-
-VILLINE => Recruit Villagers
-
-VISA => Chefland Visa
-
-VOWELTB => Is it a VOWEL or CONSONANT
-
-WATSCORE => That Is My Score!
-
-WEIGHTBL => Weight Balance
-
-ZCOSCH => How much Scholarship
+## Problems that I solved and submitted on CodeChef yet...
+
+ :snowflake: **Ada School** *(ADASCOOL)* 
+ :snowflake: **Mahasena** *(AMR15A)* 
+ :snowflake: **Area OR Perimeter** *(AREAPERI)* 
+ :snowflake: **ATM Machine** *(ATM2)* 
+ :snowflake: **Attendance** *(ATTND)* 
+ :snowflake: **ICPC Balloons** *(BALLOON)* 
+ :snowflake: **Balsa For The Three** *(BFTT)* 
+ :snowflake: **Bitwise Tuples** *(BITTUP)* 
+ :snowflake: **Chess Match** *(BLITZ3_2)* 
+ :snowflake: **Body Mass Index** *(BMI)* 
+ :snowflake: **Bear and Candies 123** *(CANDY123)* 
+ :snowflake: **PCM Dilemma** *(CCBTS01)* 
+ :snowflake: **Chef On Island** *(CCISLAND)* 
+ :snowflake: **Chef and Cook-Off** *(CCOOK)* 
+ :snowflake: **Chef and Subarrays** *(CHEFARRP)* 
+ :snowflake: **Chef and Interactive Contests** *(CHFINTRO)* 
+ :snowflake: **Chef and his Students** *(CHEFSTUD)* 
+ :snowflake: **Richie Rich** *(CHFRICH)* 
+ :snowflake: **Malvika is peculiar about color of balloons** *(CHN09)* 
+ :snowflake: **Mutated Minions** *(CHN15A)* 
+ :snowflake: **Change It** *(CHNGIT)* 
+ :snowflake: **Chef And Operators** *(CHOPRT)* 
+ :snowflake: **Ciel and Receipt** *(CIELRCPT)* 
+ :snowflake: **Chef vs Doof** *(CLLCM)* 
+ :snowflake: **Chef Judges a Competition** *(CO92JUDG)* 
+ :snowflake: **Summer Heat** *(COCONUT)* 
+ :snowflake: **Chef And Coloring** *(COLOR)* 
+ :snowflake: **Three Way Communications** *(COMM3)* 
+ :snowflake: **Cut the Board** *(CUTBOARD)* 
+ :snowflake: **The Begining Era Of Cyberverse** *(CYBV)* 
+ :snowflake: **Cyclic Quadrilateral** *(CYCLICQD)* 
+ :snowflake: **Decrement OR Increment** *(DECINC)* 
+ :snowflake: **Sum OR Difference** *(DIFFSUM)* 
+ :snowflake: **Daanish and Problems** *(DIV03)* 
+ :snowflake: **Chef and Division 3** *(DIVTHREE)* 
+ :snowflake: **Maximum Production** *(EITA)* 
+ :snowflake: **From heaven to earth** *(ELEVSTRS)* 
+ :snowflake: **Even Sum** *(EVENGAME)* 
+ :snowflake: **Even-tual Reduction** *(EVENTUAL)* 
+ :snowflake: **Small factorials** *(FCTRL2)* 
+ :snowflake: **Add Two Numbers** *(FLOW001)* 
+ :snowflake: **Find Remainder** *(FLOW002)* 
+ :snowflake: **First and Last Digit** *(FLOW004)* 
+ :snowflake: **Smallest Numbers of Notes** *(FLOW005)* 
+ :snowflake: **Sum of Digits** *(FLOW006)* 
+ :snowflake: **Reverse The Number** *(FLOW007)* 
+ :snowflake: **Helping Chef** *(FLOW008)* 
+ :snowflake: **Total Expenses** *(FLOW009)* 
+ :snowflake: **Id and Ship** *(FLOW010)* 
+ :snowflake: **Gross Salary** *(FLOW011)* 
+ :snowflake: **Valid Triangles** *(FLOW013)* 
+ :snowflake: **Grade The Steel** *(FLOW014)* 
+ :snowflake: **GCD and LCM** *(FLOW016)* 
+ :snowflake: **Second Largest** *(FLOW017)* 
+ :snowflake: **Small Factorial** *(FLOW018)* 
+ :snowflake: **Chef and Fruits** *(FRUITS)* 
+ :snowflake: **Finding Square Roots** *(FSQRT)* 
+ :snowflake: **Highest Divisor** *(HDIVISR)* 
+ :snowflake: **Tanu and Head-bob** *(HEADBOB)* 
+ :snowflake: **Hoop Jump** *(HOOPS)* 
+ :snowflake: **HOW MANY DIGITS DO I HAVE** *(HOWMANY)* 
+ :snowflake: **ATM** *(HS08TEST)* 
+ :snowflake: **FlatLand** *(ICL1902)* 
+ :snowflake: **Motivation** *(IMDB)* 
+ :snowflake: **Enormous Input Test** *(INTEST)* 
+ :snowflake: **Judging Delay** *(JDELAY)* 
+ :snowflake: **Uncle Johny** *(JOHNY)* 
+ :snowflake: **Kitchen Timetable** *(KTTABLE)* 
+ :snowflake: **Lapindromes** *(LAPIN)* 
+ :snowflake: **Lazy Chef** *(LAZYCHF)* 
+ :snowflake: **Piece of cake** *(LCH15JAB)* 
+ :snowflake: **Life Limited** *(LIFELTD)* 
+ :snowflake: **Lucky Four** *(LUCKFOUR)* 
+ :snowflake: **Lucky Four** *(LUCKYFR)* 
+ :snowflake: **Marathon** *(MARARUN)* 
+ :snowflake: **Playing with Matches** *(MATCHES)* 
+ :snowflake: **Medel** *(MDL)* 
+ :snowflake: **Movie Weekend** *(MOVIEWKN)* 
+ :snowflake: **Football** *(MSNSADM1)* 
+ :snowflake: **Packaging Cupcakes** *(MUFFINS3)* 
+ :snowflake: **Naive Chef** *(NAICHEF)* 
+ :snowflake: **No Time to Wait** *(NOTIME)* 
+ :snowflake: **Counting Pretty Numbers** *(NUM239)* 
+ :snowflake: **The Block Game** *(PALL01)* 
+ :snowflake: **Pawri Meme** *(PAWRI)* 
+ :snowflake: **Chef and Bored Games** *(PCJ18B)* 
+ :snowflake: **Play Piano** *(PLAYPIAN)* 
+ :snowflake: **Playing with Strings** *(PLAYSTR)* 
+ :snowflake: **Farmer Feb** *(POTATOES)* 
+ :snowflake: **Puppy and Sum** *(PPSUM)* 
+ :snowflake: **Primality Test** *(PRB01)* 
+ :snowflake: **Chef and Price Control** *(PRICECON)* 
+ :snowflake: **Passing Marks** *(PSGRADE)* 
+ :snowflake: **Chef and Rainbow Array** *(RAINBOWA)* 
+ :snowflake: **Rectangle** *(RECTANGL)* 
+ :snowflake: **Relativity** *(RELATIVE)* 
+ :snowflake: **Chef and Remissness** *(REMISS)* 
+ :snowflake: **Easy Math** *(RPD)* 
+ :snowflake: **Good Joke!** *(RRJOKE)* 
+ :snowflake: **A - Save Water Save Life** *(SAVWATER)* 
+ :snowflake: **Sed Sequences** *(SEDARR)* 
+ :snowflake: **Bear and Segment 01** *(SEGM01)* 
+ :snowflake: **The Smallest Pair** *(SMPAIR)* 
+ :snowflake: **Chef and SnackDown** *(SNCKYEAR)* 
+ :snowflake: **Valid Pair** *(SOCKS1)* 
+ :snowflake: **Solubility** *(SOLBLTY)* 
+ :snowflake: **Number Mirror** *(START01)* 
+ :snowflake: **Pair Me** *(SUMPOS)* 
+ :snowflake: **Server Trouble** *(SVRT)* 
+ :snowflake: **Possible Victory** *(T20MCH)* 
+ :snowflake: **Buying New Tablet** *(TABLET)* 
+ :snowflake: **Lazy Jem** *(TALAZY)* 
+ :snowflake: **The Lead Game** *(TLG)* 
+ :snowflake: **Total Correct Submissions** *(TOTCRT)* 
+ :snowflake: **Coins And Triangle** *(TRICOIN)* 
+ :snowflake: **Fit Squares in Triangle** *(TRISQ)* 
+ :snowflake: **Turbo Sort** *(TSORT)* 
+ :snowflake: **Two vs Ten** *(TWOVSTEN)* 
+ :snowflake: **Closing the Tweets** *(TWTCLOSE)* 
+ :snowflake: **Peak Finding** *(UWCOI20A)* 
+ :snowflake: **Hidden Numbers** *(UWCOI21A)* 
+ :snowflake: **Version Control System** *(VCS)* 
+ :snowflake: **Recruit Villagers** *(VILLINE)* 
+ :snowflake: **Chefland Visa** *(VISA)* 
+ :snowflake: **Is it a VOWEL or CONSONANT** *(VOWELTB)* 
+ :snowflake: **That Is My Score!** *(WATSCORE)* 
+ :snowflake: **Weight Balance** *(WEIGHTBL)* 
+ :snowflake: **How much Scholarship** *(ZCOSCH)* 
+
+
+## Problems that I submitted on Interview Bit yet...
+
+### Arrays Problems
+
+#### **Array math** => *Min Steps in Infinite Grid*
+#### **Arrangement** => *Largest Number*
+#### **Sorting** => *Wave Array*
+#### **Value ranges** => *Max Min*
+#### **Simulation array** => *Pascal Triangle*
+#### **Bucketing** => *Balance Array*
