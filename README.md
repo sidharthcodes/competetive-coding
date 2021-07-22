@@ -104,6 +104,7 @@
  :snowflake: **A - Save Water Save Life** *(SAVWATER)* 
  :snowflake: **Sed Sequences** *(SEDARR)* 
  :snowflake: **Bear and Segment 01** *(SEGM01)* 
+ :snowflake: **Similar Dishes** *(SIMDISH)* 
  :snowflake: **The Smallest Pair** *(SMPAIR)* 
  :snowflake: **Chef and SnackDown** *(SNCKYEAR)* 
  :snowflake: **Valid Pair** *(SOCKS1)* 
@@ -142,3 +143,4 @@
 #### **Value ranges** => *Max Min*
 #### **Simulation array** => *Pascal Triangle*
 #### **Bucketing** => *Balance Array*
+#### **Space recycle** => *Set Matrix Zeros*
