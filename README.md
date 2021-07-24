@@ -57,6 +57,7 @@
  :snowflake: **GCD and LCM** *(FLOW016)* 
  :snowflake: **Second Largest** *(FLOW017)* 
  :snowflake: **Small Factorial** *(FLOW018)* 
+ :snowflake: **Forgotten Language** *(FRGTNLNG)* 
  :snowflake: **Chef and Friends** *(FRK)* 
  :snowflake: **Chef and Fruits** *(FRUITS)* 
  :snowflake: **Finding Square Roots** *(FSQRT)* 
