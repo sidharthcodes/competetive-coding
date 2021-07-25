@@ -25,6 +25,7 @@
  :snowflake: **Change It** *(CHNGIT)* 
  :snowflake: **Chef And Operators** *(CHOPRT)* 
  :snowflake: **Ciel and Receipt** *(CIELRCPT)* 
+ :snowflake: **IPL and RCB** *(CLIPLX)* 
  :snowflake: **Chef vs Doof** *(CLLCM)* 
  :snowflake: **Chef Judges a Competition** *(CO92JUDG)* 
  :snowflake: **Summer Heat** *(COCONUT)* 
