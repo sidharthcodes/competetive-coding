@@ -1,3 +1,4 @@
+from collections import defaultdict
 
 def containsDuplicate(nums):
     print(set(nums))
@@ -16,9 +17,21 @@ def ValidAnagram(s, t):
     print(sOrd, tOrd)
     return sOrd == tOrd
 
+def groupAnagrams(strs):
+    sol = defaultdict(list)
+    for s in strs:
+        count = [0] * 26
+        for c in s:
+            print(c, ord(c) - ord('a'))
+            count[ord(c) - ord('a')] += 1
+        print(s, count)
+        print('..', tuple(count))
+        sol[tuple(count)].append(s)
+    return list(sol.values())
 
 
 # print(containsDuplicate(arr))
-print(ValidAnagram("anagram", "nagaram"))
-print(ValidAnagram("rat", "car"))
+# print(ValidAnagram("anagram", "nagaram"))
+# print(ValidAnagram("rat", "car"))
+print(groupAnagrams(["eat","tea","tan","ate","nat","bat"]))
 

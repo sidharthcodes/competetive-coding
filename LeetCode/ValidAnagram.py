@@ -27,16 +27,9 @@ s and t consist of lowercase English letters.
 '''
 
 
-
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        sorted_s = sorted(s)
-        sorted_t = sorted(t)
-        if sorted_s==sorted_t:
-            return True
-        else :  
-            return False
-
+        return sorted(s) == sorted(t)
 
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
@@ -56,3 +49,16 @@ class Solution:
         # print(sDict)
         # print(tDict)
         return sDict == tDict
+
+def isAnagram(self, s: str, t: str) -> bool:
+    s_count = [0]*26
+    t_count = [0]*26
+    for a in s:
+        s_count[ord(a)-ord('a')] += 1
+        # print(s, s_count)
+    for b in t:
+        t_count[ord(b)-ord('a')] += 1
+        # print(t, t_count)
+    # print(s_count)
+    # print(t_count)
+    return s_count == t_count
