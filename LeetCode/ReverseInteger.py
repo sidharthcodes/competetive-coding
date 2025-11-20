@@ -36,7 +36,5 @@ class Solution:
             # print(rev)
             rev *= 10
             x /= 10
-            # print(x)
-        # print("")
         ans = int(-rev/10) if negative else int(rev/10)
         return ans

@@ -95,6 +95,18 @@ def longestConsecutive(nums):
             longest = seq if seq>longest else longest
     return longest
 
+def maxArea(height):
+    left, right, maxarea = 0, len(height)-1, 0
+    while left<right:
+        area = min(height[left],height[right]) * (right-left)
+        maxarea = area if area>maxarea else maxarea
+        print(left,right, area, maxarea)
+        if height[left]>height[right]:
+            right -= 1
+        else:
+            left += 1
+    return maxarea
+
 # print(containsDuplicate(arr))
 # print(ValidAnagram("anagram", "nagaram"))
 # print(ValidAnagram("rat", "car"))
@@ -103,3 +115,4 @@ def longestConsecutive(nums):
 # print(isValidSudoku([["5","3",".",".","7",".",".",".","."],["6",".",".","1","9","5",".",".","."],[".","9","8",".",".",".",".","6","."],["8",".",".",".","6",".",".",".","3"],["4",".",".","8",".","3",".",".","1"],["7",".",".",".","2",".",".",".","6"],[".","6",".",".",".",".","2","8","."],[".",".",".","4","1","9",".",".","5"],[".",".",".",".","8",".",".","7","9"]]))
 # print(isValidSudoku([["8","3",".",".","7",".",".",".","."],["6",".",".","1","9","5",".",".","."],[".","9","8",".",".",".",".","6","."],["8",".",".",".","6",".",".",".","3"],["4",".",".","8",".","3",".",".","1"],["7",".",".",".","2",".",".",".","6"],[".","6",".",".",".",".","2","8","."],[".",".",".","4","1","9",".",".","5"],[".",".",".",".","8",".",".","7","9"]]))
 # print(longestConsecutive([100,4,200,1,3,2]))
+# print(maxArea([1,8,6,2,5,4,8,3,7]))
